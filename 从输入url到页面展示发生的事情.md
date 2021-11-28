@@ -1,1 +1,9 @@
-https://github.com/skyline75489/what-happens-when-zh_CN
+#### dns解析
+
+#### 发起TCP连接
+
+#### 发送http请求
+
+#### 服务器响应
+
+#### 浏览器解析渲染
